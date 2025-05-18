@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+data/processed/*
+*.json
+*.csv
+*.parquet
+
+# Models
+models/*
+
+# System
+.DS_Store

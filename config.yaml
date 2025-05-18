@@ -1,0 +1,8 @@
+dataset:
+  required_fields:
+    - wine_id
+    - name
+    - vintage
+    - region
+    - grapes
+    - producer
